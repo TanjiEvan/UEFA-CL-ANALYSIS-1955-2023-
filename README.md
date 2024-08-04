@@ -54,7 +54,8 @@ The visualization ranks the top ten teams by total matches played in the UEFA Ch
 
 ![Correlation Between Wins and Losses](https://github.com/user-attachments/assets/4dbddc6f-2485-4412-8489-d0d10a10fb4a)
 
-The bubble chart shows the correlation between the number of wins and losses for each team in the UEFA Champions League. Real Madrid, Bayern Munich, and FC Barcelona have the highest number of wins and losses, indicating their consistent participation and competitive nature. Teams like Arsenal FC and Inter Milan have fewer wins and losses, suggesting less participation or less tournament success.
+The visualization depicts the relationship between wins, losses, and total matches played for each team in the UEFA Champions League. Here, Bubble size represents total matches played, while x and y axes indicate wins and losses.
+Real Madrid, Bayern Munich, and FC Barcelona have the most matches played, wins, and losses, showcasing their consistent presence and competitive history. Arsenal FC and Inter Milan have smaller bubble sizes, while Chelsea FC and Liverpool FC have a high number of wins but also a considerable number of matches lost, suggesting a blend of past victories and occasional setbacks in the Champions League.
 
 ---
 
