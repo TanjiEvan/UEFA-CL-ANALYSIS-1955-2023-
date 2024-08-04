@@ -1,5 +1,9 @@
 # Analysis of Historical UEFA Champions League Data ( 1955-2023 )
 
+## Dataset Description
+
+**Source**: [Kaggle - Champions League Dataset 1955-2023](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023)
+
 ## Introduction
 
 The UEFA Champions League, a prestigious football tournament since 1955, has evolved significantly over the years. This report uses a comprehensive dataset from its inception to 2022-23 season to analyze match outcomes and team performance metrics.
