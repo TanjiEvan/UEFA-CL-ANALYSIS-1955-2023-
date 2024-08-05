@@ -2,7 +2,7 @@
 
 ## Dataset Description
 
-**Source**: [Kaggle - Champions League Dataset 1955-2023](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023)
+**Source**:  [Kaggle - Champions League Dataset 1955-2023](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023)
 
 ## Introduction
 
