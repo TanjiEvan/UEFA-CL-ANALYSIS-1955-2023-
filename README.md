@@ -89,7 +89,7 @@ The boxplot proves that, when the host team or runner-up competes on their home 
 
 ![Home Field Advantage in Final Matches](https://github.com/user-attachments/assets/7bfbe930-6728-4486-8550-dbc700fa36cc)
 
-The pie chart illustrates a clear home field advantage in UEFA Champions League finals, with home teams winning 58.3% of matches. This suggests that factors such as increased crowd support, familiarity with the pitch, and potential strategic advantages contribute to the higher win rate for teams playing on their home turf.
+The pie chart illustrates a clear home field advantage in UEFA Champions League finals, with home teams winning 58.3% of matches. This suggests that factors such as increased crowd support, familiarity with the pitch,and potential strategic advantages contribute to the higher win rate for teams playing on their home turf.
 
 ---
 
