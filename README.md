@@ -33,7 +33,7 @@ The objective of this project is to analyze historical trends and patterns in th
 
 - **Attendance at final matches may increase with the popularity of the tournament or due to home team advantage.**
   
-- **The venue might influence final match outcomes, potentially favoring teams from the host country.**
+- **The venue might influence final match outcomes, potentially favoring teams from the host country .**
 
 
 ## Analysis & Findings
