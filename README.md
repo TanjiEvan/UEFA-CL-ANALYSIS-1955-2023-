@@ -27,7 +27,7 @@ The objective of this project is to analyze historical trends and patterns in th
 
  
 
-## Hypotheses
+## Hypothesis
 
 - **Teams from specific countries may show higher win rates.**
 
